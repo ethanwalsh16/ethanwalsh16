@@ -6,4 +6,4 @@
 
 - Outside of school/work, I am a huge fan of sports (golf, hockey, and skiing), music (in particular jazz), and public transit.
 
-Checkout my [LinkedIn](https://www.linkedin.com/in/ethanwalsh03/) and my [portfolio](https://ethanwalsh.tech) for more information!
+Checkout my [LinkedIn](https://www.linkedin.com/in/ethanwalsh03/) and my [portfolio](https://ethanwalsh.ca) for more information!
