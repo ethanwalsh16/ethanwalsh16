@@ -2,7 +2,9 @@
 
 - Developer at Royal Bank of Canada - Amplify program
 - Studying Software Engineering (co-op) at McMaster University
-- Vice President of Partnerships at McMaster Artificial Intelligence Society 
+- Looking to build impactful & innovative tech in Canada <img src="https://github.com/user-attachments/assets/49bc145b-9405-47bf-b722-421011e7f309" alt="drawing" height="20"/>
+
+
 
 ## Languages
 
