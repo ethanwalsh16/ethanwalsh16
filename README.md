@@ -2,9 +2,7 @@
 
 - Developer at Royal Bank of Canada - Amplify program
 - Software Engineering (co-op) at McMaster University
-- Looking to build impactful tools with a focus on Canadians and Canada <img src="https://github.com/user-attachments/assets/49bc145b-9405-47bf-b722-421011e7f309" alt="drawing" height="20"/>
-
-
+- Looking to build impactful tools with a focus on Canadians and Canada
 
 ## Languages
 
