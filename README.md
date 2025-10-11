@@ -1,7 +1,7 @@
 ## Currently
 
-- Developer at Royal Bank of Canada - Amplify program
-- Software Engineering (co-op) at McMaster University
+- Working as a Software Engineering Intern at the Royal Bank of Canada on the Real-time Payments Team
+- Studying Software Engineering (co-op) at McMaster University
 - Looking to build impactful tools with a focus on Canadians and Canada
 
 ## Languages
