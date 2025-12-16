@@ -2,7 +2,7 @@
 
 - Working as a Software Engineering Intern at the Royal Bank of Canada within the quantitative technological services division
 - Studying Software Engineering (co-op) at McMaster University
-- Looking to build impactful tools with a focus on Canadians and Canada
+- Building toSCAN, an automated terms of service scanner that detects potentially harmful data practices.
 
 ## Languages
 
