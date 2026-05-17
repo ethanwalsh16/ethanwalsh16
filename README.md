@@ -1,8 +1,8 @@
-## Currently
+## Overview
 
-- Working as a Software Engineering Intern at the Royal Bank of Canada within the quantitative technological services division
+- Working as an Engineering Intern at Bruce Power on the Cyber & Digital Engineering team
+- Previously at RBC, where I worked on real-time payments engines and data architecture
 - Studying Software Engineering (co-op) at McMaster University
-- Building toSCAN, an automated terms of service scanner that detects potentially harmful data practices.
 
 ## Languages
 
